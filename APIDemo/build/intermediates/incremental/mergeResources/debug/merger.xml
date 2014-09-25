@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res" >
+            <file
+                name="plastic"
+                path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res/drawable/plastic.jpg"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="barcode"
+                path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res/layout/barcode.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="clima"
+                path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res/layout/clima.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main_options"
+                path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res/layout/main_options.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="motion"
+                path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res/layout/motion.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="oxa"
+                path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res/layout/oxa.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="single_scan"
+                path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res/layout/single_scan.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="therma"
+                path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res/layout/therma.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="thermocouple"
+                path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res/layout/thermocouple.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="dark_blue" >#2B3C91
+                </color>
+                <color name="light_blue" >#2494CF
+                </color>
+            </file>
+            <file
+                path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="hello_blank_fragment" >Hello blank fragment
+                </string>
+                <string name="app_name" >APIDemo
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land-v13" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/build/generated/res/rs/debug" />
+        <source path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/debug/res" />
+    </dataSet>
+
+</merger>

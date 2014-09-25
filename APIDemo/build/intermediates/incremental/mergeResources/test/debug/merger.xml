@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/src/androidTest/res" />
+        <source path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/build/generated/res/rs/test/debug" />
+        <source path="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/build/generated/res/generated/test/debug" />
+    </dataSet>
+
+</merger>

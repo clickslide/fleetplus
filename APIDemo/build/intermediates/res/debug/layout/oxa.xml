@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Oxa Reading"
+                android:id="@+id/textView"
+                android:layout_above="@+id/txtOxa"
+                android:layout_alignRight="@+id/txtOxa"
+                android:gravity="center_vertical"
+                android:layout_weight="1" />
+
+            <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:textAppearance="?android:attr/textAppearance"
+                android:id="@+id/txtOxa"
+                    android:layout_gravity="center_vertical"
+                    android:layout_centerVertical="true"
+                    android:layout_centerHorizontal="true"
+                android:gravity="center_horizontal"
+                android:padding="10dp"
+                android:hint="[ PPM ]"
+                android:layout_weight=".75" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Baseline"
+            android:id="@+id/textView2"
+            android:layout_above="@+id/txtBaseLineA"
+            android:layout_alignRight="@+id/txtBaseLineA"
+            android:gravity="center_vertical"
+            android:layout_weight="1" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:textAppearance="?android:attr/textAppearance"
+            android:id="@+id/txtBaseLineA"
+            android:layout_gravity="center_vertical"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_horizontal"
+            android:padding="10dp"
+            android:hint="[ Oxa  ]"
+            android:layout_weight=".75" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="@android:color/darker_gray"></LinearLayout>
+
+</LinearLayout><!-- From: file:/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api%20example/APIDemo/src/main/res/layout/oxa.xml -->

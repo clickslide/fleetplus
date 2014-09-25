@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/build/intermediates/pre-dexed/debug/ion-1.3.8-bfaceb78d3b18c800be3f47e50192c08554ac21b.jar"
+        jar="/Users/aaronfranco/.gradle/caches/modules-2/files-2.1/com.koushikdutta.ion/ion/1.3.8/1fc0413880bde2e3ffab3c5e5a243f39dd409b1c/ion-1.3.8.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1fc0413880bde2e3ffab3c5e5a243f39dd409b1c"/>
+    <item
+        dex="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/build/intermediates/pre-dexed/debug/support-v4-19.0.1-a5dccc7e24825356c258316891341256fdc25c9d.jar"
+        jar="/Users/aaronfranco/Java/Android/adt-bundle-mac-x86_64-20130917/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.1/support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd"/>
+    <item
+        dex="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/build/intermediates/pre-dexed/debug/androidasync-1.3.8-3fa86304335d6a01d1c9fb0144014b7070d0504c.jar"
+        jar="/Users/aaronfranco/.gradle/caches/modules-2/files-2.1/com.koushikdutta.async/androidasync/1.3.8/1f8e4f77d5f24179688c32b24dd5f79e889e7110/androidasync-1.3.8.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1f8e4f77d5f24179688c32b24dd5f79e889e7110"/>
+    <item
+        dex="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/build/intermediates/pre-dexed/debug/Android.API-1.6-6cb57784f8b6bad93db49088d8ed6aee4b292ad1.jar"
+        jar="/Users/aaronfranco/.gradle/caches/modules-2/files-2.1/node.android.framework/Android.API/1.6/ee5cd6366edcc5504dda4ea70099f16d711d42b1/Android.API-1.6.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ee5cd6366edcc5504dda4ea70099f16d711d42b1"/>
+    <item
+        dex="/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api example/APIDemo/build/intermediates/pre-dexed/debug/gson-2.3-f9cb4c81159265b2672493295bdc1bb821910f4d.jar"
+        jar="/Users/aaronfranco/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce"/>
+
+</pre-dex-items>

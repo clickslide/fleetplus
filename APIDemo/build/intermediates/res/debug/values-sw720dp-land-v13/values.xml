@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/aaronfranco/Downloads/variabletech-libnode-android-public-b6b8810d32a6/api%20example/APIDemo/src/main/res/values-sw720dp-land/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">128dp</dimen>
+
+</resources>
